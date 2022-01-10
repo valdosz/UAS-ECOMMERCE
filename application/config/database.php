@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sqlite:db/smart-campus.db',
+	'hostname' => 'sqlite:db/uas-ecommerce.db',
 	'username' => '',
 	'password' => '',
 	'database' => '',
