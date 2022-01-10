@@ -35,7 +35,7 @@
                 <h1 class="text-2xl font-bold">UAS E-Commerce - Muhamad Rivaldi</h1>
             </div>
             <div class="flex-3">
-                <a href="<?php echo site_url('/merek/');?>" class="bg-yellow-900 px-2 py-2 rounded-md text-white float-right border-white border-2 hover:bg-yellow-900">
+                <a href="<?php echo site_url('/logintransaksi/');?>" class="bg-yellow-900 px-2 py-2 rounded-md text-white float-right border-white border-2 hover:bg-yellow-900">
                     Menu Transaksi <span class="fa fa-shopping-cart"></span>
                 </a>
             </div>
